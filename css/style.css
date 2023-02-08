@@ -1,0 +1,41 @@
+.container {
+    background-color: #EDF3E7;
+    padding: 30px 10px;
+    text-align: center;
+    margin-top: 10px;
+    color: #4B1515;
+    font-family: utopia-std-subhead, serif;
+    font-weight: 600;
+    font-size: 26px;
+    max-width: 100%;
+    border: 30px solid #EDF3E7;
+} 
+.lead {
+    font-family: "source-sans-3", sans-serif;
+    font-weight: 400;
+}
+.display-4 {
+    font-family: utopia-std-caption, serif;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 50px;
+}
+.jumbotron {
+    margin-top: 10px;
+    font-family: "utopia-std-display", serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 30px;
+    color: #4B1515;
+    margin: 60px;
+    border-radius: 20px;
+}
+.accordion {
+    display: flex;
+    text-align: center;
+    margin-left: 550px;
+    margin-top: -20px;
+}
+.casestudy {
+    margin-top: 40px;
+}
